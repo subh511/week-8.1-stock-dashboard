@@ -2,7 +2,7 @@
 //md:grid-cols-3
 
 //in grid first grid denotes grid format
-//secondly grid-cols-1 means all in cols wise;
+//secondly grid-cols-1 means all in cols wise means to showcase ur children in small devices;
 //thirdly for responseive xs,sm,md,lg
 //sm:grid-cols-1(small size screen show me all 4 in col wise)
 //md:grid-cols-2(medium size screen show me all 2 in col wise)
