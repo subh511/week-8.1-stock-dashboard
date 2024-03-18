@@ -7,6 +7,8 @@ function Grid() {
         <div className="bg-red-400">This is first Child</div>
         <div className="bg-yellow-400">This is second Child</div>
         <div className="bg-cyan-400">This is third Child</div>
+        <div className="bg-cyan-400">This is third Child</div>
+        <div className="bg-cyan-400">This is third Child</div>
       </div>
     </div>
   );
